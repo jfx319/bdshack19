@@ -21,6 +21,7 @@
          * [Option 3. CITE-seq](#option-3-cite-seq-rna--protein)
          * [Option 4. Cell Hashing](#option-4-cell-hashing-rna--protein--sample-barcode)
          * [Option 5. ECCITE-seq](#option-5-eccite-seq-rna--protein--sample-barcode--vdj-clonality--crispr-sgrna)
+         * [Option 6. REAP-seq](#option-6-reap-seq)
       * [5. Resources](#5-resources)
          * [Computing](#computing)
          * [Tools](#tools)
@@ -259,6 +260,17 @@ Pros:
 Cons: 
  - more modalities to deal with (though could selectively ignore, or prioritize)
 
+### Option 6. REAP-seq
+paper from Merck (Peterson & Zhang 2017): https://www.nature.com/articles/nbt.3973
+
+Data from GEO: https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE100501
+ - 45 antibody barcodes (AbB) were used in the initial PBMC experiment
+ - 80 AbBs were used in the aCD27 ex vivo costimulation assay
+ - assessed the costimulatory effects of a CD27 agonist on human CD8+ lymphocytes and to identify and characterize an unknown cell type
+ - CD45RO, CD45RA isoforms only measurable by ADTs, due to illumina sequencing
+
+custom scripts from paper: 
+ - https://github.com/kelvinxz/RS_aligner
 
 ---
 ## 5. Resources
