@@ -262,6 +262,15 @@ Cons:
 
 ### Option 6. REAP-seq
 paper from Merck (Peterson & Zhang 2017): https://www.nature.com/articles/nbt.3973
+ - human PBMCs from one donor (initial pilot, 45 AbBs):
+   - no AbBs (control)
+   - labeled with AbBs
+   - blocked with dextran sulfate, then labeled with AbBs
+ - naïve CD8+ T cells from 3 donors were stimulated ex vivo (80 AbBs):
+   - aCD3 + aCD28
+   - aCD3 + aCD28 + aCD27
+ - Suppl Table 1 shows which Ab for which experiment
+
 
 Data from GEO: https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE100501
  - 45 antibody barcodes (AbB) were used in the initial PBMC experiment
