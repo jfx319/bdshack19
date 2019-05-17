@@ -164,6 +164,7 @@ Checking some published papers, or existing documentation in various tools may s
 ### Option 1. pi-ATAC (ATAC + protein)
 paper (Chen 2018): https://www.nature.com/articles/s41467-018-07115-y
  - expands on scATACseq from (Buenrostro 2015): (https://www.nature.com/articles/nature14590)
+ - also see [Corces et al 2016](https://www.nature.com/articles/ng.3646) on dissecting hematopoiesis using scATACseq
 
 Data from GEO: https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE112091
  - celltypes used: 
