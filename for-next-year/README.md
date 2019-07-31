@@ -46,3 +46,4 @@ Thank you, Nathan Sheffield and Jason Papin, for helping make the Hackathon a su
 * Spatial expression
   * mass cytometry based https://www.ionpath.com/publications/
   * sequencing based https://spatialtranscriptomics.com/publications/
+    * spatial scRNAseq of prostate tumor sections: https://sydneybiox.github.io/SingleCellsChallenge2019/workshop.html
